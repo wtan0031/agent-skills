@@ -47,3 +47,7 @@ agent-skills/
 ## Add a new skill
 
 Run `/new-skill <name>`. It writes the `SKILL.md`, adds a row to the table above, installs the link and runs `bash skills/catalog/lint.sh`, which must report 0 fail.
+
+## License
+
+[PolyForm Noncommercial 1.0.0](LICENSE.md). Free to use, change and share for personal, learning, research and other non-commercial purposes. Commercial use needs my permission — open an issue to ask.
